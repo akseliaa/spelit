@@ -9,3 +9,5 @@ simple transistor-switch circuit (schematics will be available later),
 16x2 lcd-screen,
 power switch,
 9v battery-clip.
+
+Written by Akseli Alapeltola
